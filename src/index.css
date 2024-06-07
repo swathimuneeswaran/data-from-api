@@ -1,0 +1,16 @@
+*{
+  background-color: rgb(31, 30, 30);
+  color:aqua;
+}
+
+table,tr,thead,td{
+  border:1px solid white;
+  border-collapse: collapse;
+}
+table{
+  width:50vw;
+  height:50vh;
+  margin: auto;
+  margin-top: 10rem;
+  text-align: center;
+}
